@@ -1,6 +1,6 @@
 # DevOps BC
 
-This project it's to learn DevOps
+This project it's to learn DevOps course
 
 1. [Python exercises](python)
     - [Hello world](python/hello-world.py)
